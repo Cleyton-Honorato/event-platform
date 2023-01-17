@@ -3,10 +3,7 @@ import { Routes, Route } from "react-router-dom";
 import Event from "./pages/Event";
 
 const Home = () => {
-  return (
-      <h1>HOME</h1>
-
-  );
+  return <h1>HOME</h1>;
 };
 export default function Router() {
   return (
