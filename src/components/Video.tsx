@@ -7,7 +7,6 @@ import {
   FileArrowDown,
   Lightning,
 } from "phosphor-react";
-import React from "react";
 
 const GET_LESSON_BY_SLUG = gql`
   query GetLessonBySlug($slug: String) {
