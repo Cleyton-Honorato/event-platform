@@ -2,4 +2,4 @@
 
 ## preview
 
-![urban-fashion-preview](./UrbanFashion/img/urban-fashion-preview.png)
+![preview](./src/assets/preview.png)
